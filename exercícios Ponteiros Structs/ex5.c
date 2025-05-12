@@ -1,0 +1,1 @@
+//struct Livro *1 (struct *Livro) malloc(2 * sizeof(struct Livro));
