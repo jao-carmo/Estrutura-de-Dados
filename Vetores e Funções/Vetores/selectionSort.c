@@ -1,4 +1,4 @@
-//Selection Sort
+//Selection Sort ele é diferente do QuickSort, BubbleSort e InsertionSort, pois é um algoritmo de ordenação estável. O Selection Sort é geralmente mais lento que esses algoritmos em listas grandes, mas é fácil de entender e implementar. A complexidade do Selection Sort é O(n^2) no pior caso, o que o torna ineficiente para listas grandes.
 #include <stdio.h>
 #define TAM 5
 int main() {

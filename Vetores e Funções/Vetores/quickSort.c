@@ -1,4 +1,4 @@
-//QuickShort 
+//QuickShort é um algoritmo de ordenação eficiente que utiliza a técnica de divisão e conquista. ele é diferente do BubbleSort, SelectionSort e InsertionSort, pois não é um algoritmo de ordenação estável. O QuickSort é geralmente mais rápido que esses algoritmos em listas grandes, mas sua eficiência depende da escolha do pivô. A complexidade média do QuickSort é O(n log n), enquanto a pior caso é O(n^2) se o pivô for escolhido de forma ineficiente.
 #include <stdio.h>
 #define TAM 6
 
